@@ -1,0 +1,15 @@
+body{
+    color: white;
+    background-image: url("https://image.freepik.com/free-photo/3d-low-poly-abstract-background-with-connecting-lines-dots_1048-11673.jpg");
+    background-position:center;
+    background-size: 70%
+
+}
+h1{
+    text-align: center;
+   
+}
+
+h2{
+    text-decoration: underline;
+}
