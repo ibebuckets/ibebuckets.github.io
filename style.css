@@ -1,8 +1,8 @@
 body{
     color: white;
-    background-image: url("https://image.freepik.com/free-photo/3d-low-poly-abstract-background-with-connecting-lines-dots_1048-11673.jpg");
+    background-image: url("https://wallup.net/wp-content/uploads/2017/03/27/441413-colorful-abstract-simple-748x421.png");
     background-position:center;
-    background-size: 70%
+    background-size: 130%
 
 }
 h1{
@@ -20,3 +20,14 @@ h2{
     color: white;
     text-decoration: none;
 }
+
+  
+  
+  .About :hover {
+    background-color: gold;
+    width: 100px;
+  }
+  .About {
+      border: 100
+      
+  }
