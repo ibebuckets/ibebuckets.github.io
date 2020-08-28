@@ -4,12 +4,18 @@ body{
     /* background-color:#D8DDDE; */
     background-color: #7a7575;
     text-align: center;
+    
+    
+   
 }
 
 
 h1{
     text-align: center;
     font-family: 'Rock Salt', cursive;
+
+    top: 50%;
+   
    
 }
 
@@ -73,4 +79,6 @@ h2{
         width:900px;
         padding:2px;
     }
-   
+   a:hover{
+       color:gray;
+   }
