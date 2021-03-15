@@ -1,8 +1,8 @@
 /* @media(max-width:600px){ */
 body{
-    color: white;
+    color: black;
     /* background-color:#D8DDDE; */
-    background-color: #7a7575;
+    background-color:white;
     text-align: center;
     
     
@@ -13,8 +13,8 @@ body{
 h1{
     text-align: center;
     font-family: 'Rock Salt', cursive;
-
-    top: 50%;
+ 
+    text-outline: 100;
    
    
 }
@@ -54,26 +54,27 @@ h2{
 } */
 
 .fa-facebook {
-    color: white;
+    color:black;
+    
   } 
   .fa-envelope{
-     color:white;
+     color:black;
   }
   .fa-instagram{
-      color:white;
+      color:black;
   }
   .fa-linkedin{
-      color:white;
+      color:black;
   }
 
   
-.About:hover {
+/* .About:hover {
     background-color: gold;
   }
 .resources:hover{
-      background-color:gold ;
+      background-color:gold ; */
 
-    } 
+/* } */
     div{
         margin:auto;
         width:900px;
@@ -82,3 +83,4 @@ h2{
    a:hover{
        color:gray;
    }
+ 
