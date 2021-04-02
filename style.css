@@ -11,10 +11,12 @@ body{
 
 
 h1{
-    text-align: center;
+    /* text-align: center; */
     font-family: 'Rock Salt', cursive;
  
-    text-outline: 100;
+    display: flex;
+justify-content: center;
+align-items: center;
    
    
 }
