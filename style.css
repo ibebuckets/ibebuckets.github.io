@@ -1,88 +1,44 @@
 /* @media(max-width:600px){ */
-body{
-    color: black;
-    /* background-color:#D8DDDE; */
-    background-color:white;
-    text-align: center;
-    
-    
-   
+body {
+    background-color: white;
 }
 
-
-h1{
-    /* text-align: center; */
+h1 {
     font-family: 'Rock Salt', cursive;
- 
-    display: flex;
-justify-content: center;
-align-items: center;
-   
-   
+    font-size: 52px;
+    margin-top: 150px;
 }
 
-h2{
-    text-decoration: underline;
-}
-.icons{
-    font-size: 32px;
-}
-.icons a, .icons a:visited {
+.icons a,
+.icons a:visited {
     color: white;
     text-decoration: none;
 }
+
 /* Style all font awesome icons */
 .fa {
     padding: 20px;
-    font-size: 30px;
-    width: 50px;
+    font-size: 36px;
     text-align: center;
     text-decoration: none;
-  }
-  
-  /* Add a hover effect if you want */
-  .fa:hover {
-    opacity: 0.7;
-  }
-    /* display:flex;
-    justify-content:center;
-    align-items: flex-end;
-    margin-top: 40px; */
+}
 
-/* .pics img{
-    width: 100px;
-    height:100px;
-    margin-right:30px;
-} */
+.fa:hover {
+    opacity: 0.7;
+}
 
 .fa-facebook {
-    color:black;
-    
-  } 
-  .fa-envelope{
-     color:black;
-  }
-  .fa-instagram{
-      color:black;
-  }
-  .fa-linkedin{
-      color:black;
-  }
+    color: black;
+}
 
-  
-/* .About:hover {
-    background-color: gold;
-  }
-.resources:hover{
-      background-color:gold ; */
+.fa-envelope {
+    color: black;
+}
 
-/* } */
-    div{
-        margin:auto;
-        width:900px;
-        padding:2px;
-    }
-   a:hover{
-       color:gray;
-   }
- 
+.fa-instagram {
+    color: black;
+}
+
+.fa-linkedin {
+    color: black;
+}
