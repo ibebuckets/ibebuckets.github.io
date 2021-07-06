@@ -2,3 +2,19 @@ body{
     background-color:white;
     color:black;
 }
+.ari-exchange{
+    background-color: lightgrey;
+  width: 1250px;
+  padding: 50px;
+  margin: 20px;
+}
+.ari-exchange:hover{
+    opacity: 0.7;
+    color:blue
+}
+.unknown{
+    background-color: lightgrey;
+    width: 1250px;
+    padding: 50px;
+    margin: 20px;
+}
