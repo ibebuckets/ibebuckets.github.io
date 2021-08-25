@@ -4,8 +4,9 @@ body{
 }
 .about-me{
         background-color: lightgrey;
-    width: 1250px;
+    width: 1200px;
     padding: 50px;
     margin: 20px;
-    height: 500px;
+    height: 800px;
+    font-size: 40px;
 }
